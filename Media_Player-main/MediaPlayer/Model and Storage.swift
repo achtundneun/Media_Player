@@ -2,7 +2,7 @@
 //  Model and Storage.swift
 //  MediaPlayer
 //
-//  Created by Егор Никитин on 24.02.2021.
+//  Created by Савва Никитин on 22.02.2022.
 //
 
 import UIKit
