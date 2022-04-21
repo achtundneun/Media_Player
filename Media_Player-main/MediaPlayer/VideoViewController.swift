@@ -2,7 +2,7 @@
 //  VideoViewController.swift
 //  MediaPlayer
 //
-//  Created by Егор Никитин on 26.02.2021.
+//  Created by Савва Никитин on 26.02.2022.
 //
 
 import UIKit
