@@ -177,7 +177,7 @@ final class AudioViewController: UIViewController {
             player.play()
         }
     }
-    
+    // Перемотка на 10 секун назад
     @IBAction private func backwardTenSecondsAction(_ sender: UIButton) {
         buttonAnimate(button: sender)
         
